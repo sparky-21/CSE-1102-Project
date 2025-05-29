@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1737381759 source:c:\new smart academic calender\main.c
+	"new_func.h"
+
+1737381759 c:\new smart academic calender\new_func.h
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+
+1737382637 source:c:\new smart academic calender\new_func.c
+	"new_func.h"
+
+1737381759 source:c:\smart academic calender\main.c
+	"new_func.h"
+
+1737689668 c:\smart academic calender\new_func.h
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+
+1737702706 source:d:\smart academic calender\main.c
+	"new_func.h"
+
+1737689670 d:\smart academic calender\new_func.h
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+
+1737715856 source:d:\smart academic calender\new_func.c
+	"new_func.h"
+
+1737876790 source:d:\smart academic calender - copy\main.c
+	"new_func.h"
+
+1737689670 d:\smart academic calender - copy\new_func.h
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+
+1737910746 source:d:\smart academic calender - copy\new_func.c
+	"new_func.h"
+
